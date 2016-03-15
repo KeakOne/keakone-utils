@@ -1,0 +1,31 @@
+{
+  "name": "keakone-utils",
+  "version": "1.0.0",
+  "description": "a utility library",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeakOne/keakone-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/KeakOne/keakone-utils/issues"
+  },
+  "homepage": "https://github.com/KeakOne/keakone-utils#readme",
+  "dependencies": {
+    "tony-utils": "^1.0.1"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "js-object-pretty-print": "^0.2.0",
+    "node-emoji": "^1.1.1"
+  }
+}
